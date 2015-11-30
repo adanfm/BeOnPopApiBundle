@@ -1,0 +1,22 @@
+{
+  "name" : "adanfm/beonpopbundle",
+  "description" : "Bundle para integração com a API do beonpopBundle",
+  "type" : "symfony-bundle",
+  "authors" : [{
+    "name" : "Adan Felipe Medeiros",
+    "email" : "adan.grg@gmail.com"
+  }],
+  "keywords" : [
+    "BeOnPop Bundle Api"
+  ],
+  "license" : [
+    "MIT"
+  ],
+  "require" : {},
+  "autoload" : {
+    "psr-0" : {
+      "Adanfm\\BeOnPopApiBundle" : ""
+    }
+  },
+  "target-dir" : "Adanfm/BeOnPopApiBundle"
+}
