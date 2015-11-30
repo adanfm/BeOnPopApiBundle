@@ -1,5 +1,5 @@
 {
-  "name" : "adanfm/beonpopbundle",
+  "name" : "adanfm/beonpopapibundle",
   "description" : "Bundle para integração com a API do beonpopBundle",
   "type" : "symfony-bundle",
   "authors" : [{
