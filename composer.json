@@ -1,6 +1,6 @@
 {
   "name" : "adanfm/beonpopbundle",
-  "description" : "Bundle para integração com a API do beonpopBundle",
+  "description" : "Bundle para integraÃ§Ã£o com a API do beonpopBundle",
   "type" : "symfony-bundle",
   "authors" : [{
     "name" : "Adan Felipe Medeiros",
